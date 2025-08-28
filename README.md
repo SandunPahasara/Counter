@@ -13,7 +13,7 @@ A modern, interactive counter application built with React and Ant Design. This 
 
 ## Screenshots
 
-![alt text](image.png) <!-- Add a screenshot if available -->
+![alt text](image.png) 
 
 ## Getting Started
 
