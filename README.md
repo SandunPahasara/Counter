@@ -13,7 +13,7 @@ A modern, interactive counter application built with React and Ant Design. This 
 
 ## Screenshots
 
-![alt text](image.png)) <!-- Add a screenshot if available -->
+![alt text](image.png) <!-- Add a screenshot if available -->
 
 ## Getting Started
 
@@ -66,5 +66,3 @@ You can easily modify the min/max values, step range, or UI styles in `src/App.j
 This project is licensed under the MIT License.
 
 ---
-
-*Made with ❤️ using React
